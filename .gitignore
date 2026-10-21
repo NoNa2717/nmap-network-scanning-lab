@@ -1,0 +1,8 @@
+# Keep raw scan output private unless reviewed and intentionally committed
+reports/*
+!reports/.gitkeep
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
